@@ -1,6 +1,6 @@
 # native_view_project
 
-A new Flutter project.
+A Flutter project to compare flutter widgets & native (ios) widgets inside list view builder in order to check platform view bad performances.
 
 ## Getting Started
 
